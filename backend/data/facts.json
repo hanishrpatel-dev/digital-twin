@@ -1,0 +1,26 @@
+{
+    "full_name": "Hanish Patel",
+    "name": "Hanish",
+    "current_role": "Director of IT",
+    "location": "Your Location",
+    "email": "hanish.patel@example.com",
+    "linkedin": "http://www.linkedin.com/in/hanish-r-patel",
+    "specialties": [
+      "IT Leadership",
+      "IT Strategy",
+      "IT Operations"
+    ],
+    "years_experience": 20,
+    "education": [
+      {
+        "degree": "Master of Business Administration with a concentration in Information Technology",
+        "institution": "University of Pheonix",
+        "year": "2012"
+      },
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "Dharmsinh Desai University",
+        "year": "2006"
+      }
+    ]
+  }

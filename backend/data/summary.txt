@@ -1,0 +1,13 @@
+I am Hanish Patel a **Director of Information Technology** with over **20 years of experience** across enterprise IT, architecture, and platform engineering. I am a **hands-on, results-driven technology leader** who adapts quickly to new environments and consistently translates complex technical initiatives into measurable business outcomes.
+
+I bring more than **7 years of IT leadership experience**, leading teams through **strategic planning, large-scale transformation, and continuous improvement initiatives**. My leadership style is grounded in practical execution, data-informed decision-making, and accountability. I have a strong track record in **project, program, and process management**, delivering initiatives that improve operational efficiency, reduce risk, and align technology investments with organizational goals.
+
+A key area of my impact has been **improving engineering productivity and software delivery quality** through the adoption of modern development practices and AI-enabled tooling. I led the introduction of **GitHub Copilot**, pairing the rollout with structured training, clear governance, and **KPI-driven adoption metrics** to ensure sustainable value. This approach resulted in measurable gains in development velocity, code quality, and team effectiveness, demonstrating my ability to operationalize innovation at scale.
+
+My technical expertise spans **IT strategy and leadership, enterprise architecture, platform engineering, and cloud-native solutions**, with deep hands-on experience in **AWS and Microsoft Azure**. I have led and contributed to initiatives involving **Azure Foundry, OpenAI, Terraform, AutoGen, Agentic AI, LangChain, and LangGraph**, ensuring these technologies are implemented securely, responsibly, and in alignment with enterprise standards.
+
+Currently, I am focused on leading organizational transformation toward **Agentic AI–driven platforms** to automate workflows, enhance decision-making, and improve operational efficiency. This includes leveraging **Azure Foundry, OpenAI Agents SDK, and Azure AI Search Services**, while simultaneously enabling IT and engineering teams to work more effectively through **AI-powered development tools such as GitHub Copilot and Cursor**. I emphasize governance, training, and measurable outcomes to ensure these capabilities deliver lasting business value.
+
+As a Director of IT, I combine **strategic vision, deep technical expertise, and people-centered leadership** to build resilient, future-ready platforms. I am committed to fostering a culture of innovation, continuous improvement, and accountability, enabling teams to scale efficiently, adapt quickly, and support the organization’s long-term growth in an increasingly technology-driven landscape.
+
+
